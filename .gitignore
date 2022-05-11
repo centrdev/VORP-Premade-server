@@ -4,3 +4,5 @@ server-data/cahce
 # IGNORE SERVER-FILES ARTIFACTS BUT KEEP README.md
 server-files/*.dll
 server-files/*.exe
+server-files/*.json
+server-files/citizen
