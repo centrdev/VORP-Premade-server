@@ -1,0 +1,6 @@
+# IGNORE SERVER-DATA CACHE
+server-data/cahce 
+
+# IGNORE SERVER-FILES ARTIFACTS BUT KEEP README.md
+server-files/*.dll
+server-files/*.exe
